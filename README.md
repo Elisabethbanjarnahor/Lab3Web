@@ -11,8 +11,15 @@
 lab3_list.html — Membuat List
 🔹 Tujuan:
 Belajar tiga jenis daftar di HTML: ordered list, unordered list, dan description list.
-🔹 Penjelasan Koding:
 
+🔹 Penjelasan Koding:
+<ol type="A" start="1"> ... </ol>
+Membuat ordered list (A, B, C) — daftar berurutan.
+type="A" = huruf besar, start="1" = mulai dari A.
+<ul type="square"> ... </ul>
+➡ Membuat unordered list (pakai simbol kotak).
+type="square" = simbolnya kotak, bisa juga circle, disc, dll.
+<dl> <dt>...</dt> <dd>...</dd> </dl>
 ## foto kedua ##
 ![codingan pertama](https://github.com/Elisabethbanjarnahor/Lab3Web/blob/22b906e8936bf1b28d7fd1f01a7c5a9218f95254/Screenshot%202025-10-08%20110631.png
 )
