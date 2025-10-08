@@ -20,6 +20,12 @@ type="A" = huruf besar, start="1" = mulai dari A.
 ➡ Membuat unordered list (pakai simbol kotak).
 type="square" = simbolnya kotak, bisa juga circle, disc, dll.
 <dl> <dt>...</dt> <dd>...</dd> </dl>
+Membuat description list (daftar dengan keterangan).
+<dt> = istilah (contoh: Fakultas Teknik),
+<dd> = penjelasan dari istilahnya.
+
+🔹 Hasil:
+Menampilkan daftar dengan berbagai bentuk penomoran dan keterangan — sama kayak di contoh modul halaman awal.
 
 ## foto kedua ##
 ![codingan pertama](https://github.com/Elisabethbanjarnahor/Lab3Web/blob/22b906e8936bf1b28d7fd1f01a7c5a9218f95254/Screenshot%202025-10-08%20110631.png
