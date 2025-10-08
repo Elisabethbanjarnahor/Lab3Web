@@ -9,4 +9,5 @@
 )
 
 ## foto kedua ##
-![codingan pertama]()
+![codingan pertama](https://github.com/Elisabethbanjarnahor/Lab3Web/blob/22b906e8936bf1b28d7fd1f01a7c5a9218f95254/Screenshot%202025-10-08%20110631.png
+)
