@@ -38,6 +38,18 @@ Belajar menyusun data ke dalam bentuk baris dan kolom.
 <table border="1" cellpadding="6" cellspacing="0">
 
 ➡ Membuat tabel dengan garis, jarak antar teks (cellpadding), dan tanpa jarak antar sel (cellspacing).
+<thead> ... </thead>  dan  <tbody> ... </tbody>
+Pisahin antara kepala tabel dan isi tabel biar rapi.
+
+<td rowspan="3">Teknik</td>
+
+➡ rowspan menggabungkan sel secara vertikal (ke bawah).
+Dipakai di kolom Fakultas biar “Teknik” bisa mencakup 3 baris jurusan.
+
+🔹 Hasil:
+
+Tabel dengan kolom No, Fakultas, Program Studi.
+Bagian “Teknik” digabung di tiga baris pertama — tampilannya rapi dan berstruktur
 
 ## foto ketiga ##
 ![kodingan ke tiga](https://github.com/Elisabethbanjarnahor/Lab3Web/blob/9ce5b985ee44e6ca5553934adea2dde34b4504be/Screenshot%202025-10-08%20110928.png
