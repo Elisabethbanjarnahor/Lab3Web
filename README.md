@@ -55,6 +55,50 @@ Bagian “Teknik” digabung di tiga baris pertama — tampilannya rapi dan bers
 ![kodingan ke tiga](https://github.com/Elisabethbanjarnahor/Lab3Web/blob/9ce5b985ee44e6ca5553934adea2dde34b4504be/Screenshot%202025-10-08%20110928.png
 )
 
+lab3_form.html — Membuat Form
+🔹 Tujuan:
+Belajar membuat form input data dan menambahkan CSS sederhana biar tampilannya bagus.
+🔹 Penjelasan Koding:
+<form action="proses.php" method="post">
+➡ Awal form.
+action = alamat file tujuan (tempat data dikirim),
+method="post" = metode pengiriman data (aman dan umum dipakai).
+Penjelasan Koding:
+<form action="proses.php" method="post">
+➡ Awal form.
+action = alamat file tujuan (tempat data dikirim),
+method="post" = metode pengiriman data (aman dan umum dipakai).
+<fieldset> <legend>Data Pelanggan</legend> ... </fieldset>
+➡ fieldset bikin kotak form, legend jadi judulnya (“Data Pelanggan”).
+<input type="text"> dan <textarea>
+➡ Untuk mengisi nama dan alamat.
+html
+Salin kode
+<input type="radio" name="kelamin" value="L">
+➡ Tombol pilihan jenis kelamin (Laki-laki / Perempuan).
+Dikasih titik (Laki-laki.) biar sama kayak di modul.
+html
+Salin kode
+<input type="submit" value="Login">
+➡ Tombol untuk kirim form (berwarna hijau dari CSS).
+
+Tambahan (Tugas Akhir):
+Dropdown menu (<select>) untuk pilih kota
+Listbox multiple (<select multiple>) untuk pilih hobi lebih dari satu
+🔹 CSS-nya:
+form input[type="text"], form textarea {
+    border: 1px solid #197a43;
+}
+form input[type="submit"] {
+    background-color: #197a43;
+    color: white;
+}
+➡ Memberi warna hijau pada garis form dan tombol “Login”.
+Hasil:
+Form dengan kotak “Data Pelanggan”, isi: Nama, Alamat, Jenis Kelamin, Dropdown Kota, Listbox Hobi, dan Tombol Login hijau. ✅
+
 ## foto keemppat ##
 ![kodingan keempat](https://github.com/Elisabethbanjarnahor/Lab3Web/blob/bc470445005c12d2c57f5ee02a963421745f0766/Screenshot%202025-10-08%20112110.png
 )
+
+## sekian dan terimakasih ##
