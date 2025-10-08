@@ -31,6 +31,14 @@ Menampilkan daftar dengan berbagai bentuk penomoran dan keterangan — sama kaya
 ![codingan pertama](https://github.com/Elisabethbanjarnahor/Lab3Web/blob/22b906e8936bf1b28d7fd1f01a7c5a9218f95254/Screenshot%202025-10-08%20110631.png
 )
 
+lab3_tabel.html — Membuat Table
+🔹 Tujuan:
+Belajar menyusun data ke dalam bentuk baris dan kolom.
+🔹 Penjelasan Koding:
+<table border="1" cellpadding="6" cellspacing="0">
+
+➡ Membuat tabel dengan garis, jarak antar teks (cellpadding), dan tanpa jarak antar sel (cellspacing).
+
 ## foto ketiga ##
 ![kodingan ke tiga](https://github.com/Elisabethbanjarnahor/Lab3Web/blob/9ce5b985ee44e6ca5553934adea2dde34b4504be/Screenshot%202025-10-08%20110928.png
 )
